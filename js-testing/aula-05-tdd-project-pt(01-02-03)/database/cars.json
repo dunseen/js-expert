@@ -1,0 +1,16 @@
+[
+  {
+    "id": "75b1181e-fb03-4a25-809f-453edb761320",
+    "name": "Aventador",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "d4e15c67-f305-4b50-8230-4eb53f192c6e",
+    "name": "Colorado",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
