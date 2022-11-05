@@ -1,9 +1,22 @@
 [
   {
     "id": 1,
-    "vehicles": ["Motocicleta","Carro","Caminhao"],
+    "vehicles": [
+      "Motocicleta",
+      "Carro",
+      "Caminhao"
+    ],
     "kmTraveled": 1000,
     "from": "2009-01-01",
     "to": "2020-11-26"
+  },
+  {
+    "id": "2",
+    "vehicles": [
+      "Bike"
+    ],
+    "kmTraveled": "1000",
+    "from": "2020-01-01",
+    "to": "2020-03-04"
   }
 ]
